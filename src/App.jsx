@@ -9,6 +9,7 @@ function App() {
   return (
     <>
       <h1>Ragnars Page</h1>
+      <h2>Celia Page</h2>
     </>
   );
 }
