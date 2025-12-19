@@ -10,6 +10,7 @@ function App() {
     <>
       <h1>Ragnars Page</h1>
       <h2>This is Joshuas code</h2>
+      <h2>Celia Page</h2>
     </>
   );
 }
